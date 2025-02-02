@@ -20,10 +20,10 @@ _Parth_ :- Itallic
 **Parth** :- Bold
 
 
-[Link](https://github.com/Parth-Baldaniya) :- Link
+[Link](https://github.com/parthbaldaniya00) :- Link
 
 
-![Parth-Image](https://avatars.githubusercontent.com/u/141428378?v=4) :- Image
+![Parth-Image](https://avatars.githubusercontent.com/u/154694900?v=4) :- Image
 
 
 Tables:-
@@ -61,7 +61,6 @@ List
 - Prince
     - Jay
     - Raj
-
 
 
 Badge 
